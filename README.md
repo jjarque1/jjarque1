@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a **Cybersecurity Specialist** with a passion 
 ## 🛠️ Technologies I work with:
 - **Languages:** Python, JavaScript, Kotlin, C#, and more.
 - **Cybersecurity Tools:** Kali Linux, Wireshark, Burp Suite, Metasploit, Snort, Suricata, Zeek, OpenVAS, Splunk, and more.
-- **Frameworks and Libraries:** React, Node.js, Flask.
+- **Frameworks and Libraries:** React, Node.js, Flask, Angular.
 - **Other Interests:** Pentesting Automation, AI in Cybersecurity, and Data Analysis.
 
 ## 🌐 Find Me Online:
