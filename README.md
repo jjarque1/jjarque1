@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I'm a **Cybersecurity Specialist** with a passion 
 - **Other Interests:** Pentesting Automation, AI in Cybersecurity, and Data Analysis.
 
 ## 🌐 Find Me Online:
-- [LinkedIn](www.linkedin.com/in/jjarque1)
+- [LinkedIn](https://www.linkedin.com/in/jjarque1/)
+
 <!--- Website: [Your Website]--->
 
 Feel free to explore my repositories and check out some of my recent projects! Let's connect and collaborate on exciting ideas.
