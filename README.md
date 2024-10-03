@@ -23,10 +23,6 @@ Feel free to explore my repositories and check out some of my recent projects! L
 
 ---
 
-"Elevating security through innovation and precision!"
-<br>
-<br>
-<br>
 ![Contribuciones](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/58c1bb0b4dd66b4f7678ea697b5d766d5255c840/github-contribution-grid-snake-dark.svg)
 <!---
 jjarque1/jjarque1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
